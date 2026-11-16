@@ -1,0 +1,1 @@
+{"version":3,"file":"formatMessage.js","sourceRoot":"","sources":["../../src/utils/formatMessage.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,MAAM,GAAG,CAAC,QAAgB,EAAE,OAAe,EAAE,EAAE;IAC1D,OAAO;QACL,QAAQ;QACR,OAAO;QACP,OAAO,EAAE,IAAI,CAAC,GAAG,EAAE;KACpB,CAAC;AACJ,CAAC,CAAC"}
